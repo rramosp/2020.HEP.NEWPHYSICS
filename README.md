@@ -1,4 +1,4 @@
-# 2020.HEP.NEWPHYSICS Experiments based on the following references
+# Experiments based on the following references
 
 **Asymptotic formulae for likelihood-based tests of new physics** https://arxiv.org/abs/1007.1727
 
